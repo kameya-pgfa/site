@@ -140,13 +140,13 @@
   .content p {
     font: 14px Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
-    text-indent: 10px;
+    text-indent: 8px;
   }
 
 .content pre {
     font: 20px Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
-    text-indent: 10px;
+    text-indent: 8px;
   }
 
   .footer {
