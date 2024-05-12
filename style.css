@@ -126,19 +126,25 @@
 
 
   .content h5 {
-    font: 25px Verdana, Arial, Helvetica, sans-serif;
+    font: 30px Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
     text-align: center;
   }
 
   .content h6 {
-    font: 25px Verdana, Arial, Helvetica, sans-serif;
+    font: 30px Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
     text-align: center;
   }
 
   .content p {
     font: 14px Verdana, Arial, Helvetica, sans-serif;
+    color: #000000;
+    text-indent: 20px;
+  }
+
+.content pre {
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
     text-indent: 20px;
   }
