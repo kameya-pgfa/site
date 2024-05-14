@@ -67,7 +67,7 @@
   .container {
     display: block;
     width: 100%;
-    float: center;
+    float: left;
     transition: width .2s;
   }
 
@@ -100,6 +100,7 @@
     color: #26436f;
     z-index: 0;
     height: 365px;
+    text-align: center;
   }
 
 
