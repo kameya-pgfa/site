@@ -79,7 +79,7 @@
 
 @media only screen and (max-width: 500px) {
     .blok-menu {
-      left: 200%;
+      right: 200%;
     }
   }
 
