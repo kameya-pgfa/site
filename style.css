@@ -13,9 +13,6 @@
     overflow: hidden;
     background: #26436f;
     box-shadow: 0px 10px 10px -6px #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
 
   .menu {
@@ -74,23 +71,7 @@
     transition: width .2s;
   }
 
- @media only screen and (min-width: 450px) {
-    .container {
-      width: 50%;
-    }
-  }
-
-  @media only screen and (min-width: 768px) {
-    .container {
-      width: 33.333%;
-    }
-  }
-
-  @media only screen and (min-width: 1000px) {
-    .container {
-      width: 25%;
-    }
-  }
+ 
 
   .product {
     display: block;
